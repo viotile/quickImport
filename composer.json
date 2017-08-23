@@ -1,5 +1,5 @@
 {
-    "name": "viotile/excel",
+    "name": "viotile/quickImportExport",
     "description": "This package used for import/export functionality in php project.",
     "type": "library",
     "authors": [
