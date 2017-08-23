@@ -1,0 +1,14 @@
+{
+    "name": "viotile/excel",
+    "description": "This package used for import/export functionality in php project.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "vishnu divetia",
+            "email": "vdivetia@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpexcel": "^1.8"
+    }
+}
